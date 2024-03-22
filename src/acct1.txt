@@ -1,0 +1,35 @@
+Track 1 : A total of 4 cars bound for Trenton:
+ Car number : 72413
+      Cargo : autos 
+     Origin : Detroit 
+Destination : Trenton 
+     Wieght : 26500 pounds 
+   Distance : 610 miles 
+       Cost : $8082 
+
+ Car number : 32492
+      Cargo : hogs 
+     Origin : Lancaster 
+Destination : Trenton 
+     Wieght : 3750 pounds 
+   Distance : 198 miles 
+       Cost : $371 
+
+ Car number : 57321
+      Cargo : cattle 
+     Origin : Lancaster 
+Destination : Trenton 
+     Wieght : 5000 pounds 
+   Distance : 198 miles 
+       Cost : $495 
+
+ Car number : 82353
+      Cargo : hogs 
+     Origin : York 
+Destination : Trenton 
+     Wieght : 3500 pounds 
+   Distance : 181 miles 
+       Cost : $316 
+
+Total weight:19.375 tons
+ Total Bill : $9264.0

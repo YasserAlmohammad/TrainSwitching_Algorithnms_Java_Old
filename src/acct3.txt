@@ -1,0 +1,19 @@
+Track 3 : A total of 2 cars bound for Baltimore:
+ Car number : 81123
+      Cargo : autos 
+     Origin : Detroit 
+Destination : Baltimore 
+     Wieght : 27000 pounds 
+   Distance : 477 miles 
+       Cost : $6439 
+
+ Car number : 45301
+      Cargo : coal 
+     Origin : Pittsburgh 
+Destination : Baltimore 
+     Wieght : 13000 pounds 
+   Distance : 229 miles 
+       Cost : $1488 
+
+Total weight:20.0 tons
+ Total Bill : $7927.0

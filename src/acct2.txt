@@ -1,0 +1,27 @@
+Track 2 : A total of 3 cars bound for Charlotte:
+ Car number : 49374
+      Cargo : autos 
+     Origin : Detroid 
+Destination : Charlotte 
+     Wieght : 27300 pounds 
+   Distance : 893 miles 
+       Cost : $12189 
+
+ Car number : 92949
+      Cargo : eggs 
+     Origin : Lancaster 
+Destination : Charlotte 
+     Wieght : 1550 pounds 
+   Distance : 481 miles 
+       Cost : $372 
+
+ Car number : 77443
+      Cargo : eggs 
+     Origin : Lancaster 
+Destination : Charlotte 
+     Wieght : 1500 pounds 
+   Distance : 481 miles 
+       Cost : $360 
+
+Total weight:15.175 tons
+ Total Bill : $12921.0

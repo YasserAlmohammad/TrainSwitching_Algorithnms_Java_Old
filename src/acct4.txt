@@ -1,0 +1,35 @@
+Track 4 : A total of 4 cars bound for other destinations:
+ Car number : 37220
+      Cargo : coal 
+     Origin : Pittsburgh 
+Destination : Roanoke 
+     Wieght : 13600 pounds 
+   Distance : 495 miles 
+       Cost : $3366 
+
+ Car number : 65230
+      Cargo : eggs 
+     Origin : Lancaster 
+Destination : Newark 
+     Wieght : 1600 pounds 
+   Distance : 245 miles 
+       Cost : $196 
+
+ Car number : 39115
+      Cargo : coal 
+     Origin : Pittsburgh 
+Destination : Norfolk 
+     Wieght : 13500 pounds 
+   Distance : 451 miles 
+       Cost : $3044 
+
+ Car number : 27145
+      Cargo : coal 
+     Origin : Pittsburgh 
+Destination : Norfolk 
+     Wieght : 13700 pounds 
+   Distance : 451 miles 
+       Cost : $3089 
+
+Total weight:21.2 tons
+ Total Bill : $9695.0
